@@ -16,6 +16,10 @@
 - [Node.js](https://nodejs.org/en)
 - [Playwright](https://playwright.dev/)
 
+#### Optional
+
+- [actionlint](https://github.com/rhysd/actionlint) (for linting GitHub Actions workflows)
+
 ### Installation steps
 
 <details>
@@ -39,6 +43,12 @@ brew install node
 
 ```sh
 npx playwright install --with-deps
+```
+
+#### `actionlint`
+
+```sh
+brew install actionlint
 ```
 
 </details>
