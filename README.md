@@ -1,5 +1,7 @@
 # crossvid-react-components
 
+[![CI](https://github.com/crossvid/crossvid-react/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/crossvid/crossvid-react/actions/workflows/ci.yml?query=branch%3Amain)
+
 **crossvid** is suite of libraries to support video call applications, helping to avoid vendor lock-in:
 
 - A unified interface for video call configuration
